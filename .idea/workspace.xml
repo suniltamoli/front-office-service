@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a8bcb93-d756-47e2-b162-2f49f68fbed6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/commons/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/entity/LoanRequestEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/middleware/LoanOfficerMessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/middleware/MessageProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/middleware/RiskOfficerMessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/AddressDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/AddressType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/CustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/IdentityDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/IdentityType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/LoanRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/MaritalStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/Occupation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/PersonalDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/ProofOfAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/SalaryDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model/Sector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/repository/CustomerLoanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/services/CustomerLoanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/services/CustomerLoanServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/transformer/LoanRequestTransformer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iSriosFecPXwWt1VAGh7SbSk6k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sg.loan.kyc.middleware" />
+      <recent name="com.sg.loan.kyc.commons" />
+      <recent name="com.sg.loan.kyc.transformer" />
+      <recent name="com.sg.loan.kyc.entity" />
+      <recent name="com.sg.loan.kyc.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/model" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sg/loan/kyc/services" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/sg/loan/kyc" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontOfficeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="front-office-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.loan.frontoffice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sg.loan.frontoffice.FrontOfficeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.FrontOfficeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a8bcb93-d756-47e2-b162-2f49f68fbed6" name="Default Changelist" comment="" />
+      <created>1601911966517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601911966517</updated>
+      <workItem from="1601911968586" duration="10218000" />
+      <workItem from="1602140314612" duration="350000" />
+      <workItem from="1602170555803" duration="195000" />
+      <workItem from="1602171449854" duration="24779000" />
+      <workItem from="1603475914598" duration="482000" />
+      <workItem from="1603594905927" duration="5174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="162" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603595703552">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="302" y="162" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1603595703552" />
+    <state x="651" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1602177396451">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="651" y="213" key="#com.intellij.ide.util.MemberChooser/0.23.1680.978@0.23.1680.978" timestamp="1602177396451" />
+    <state x="115" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601912212883">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="115" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.978@0.23.1680.978" timestamp="1601912212883" />
+    <state x="576" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601912374993">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="576" y="254" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.978@0.23.1680.978" timestamp="1601912374993" />
+    <state x="601" y="210" key="#xdebugger.evaluate" timestamp="1602188121470">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="601" y="210" key="#xdebugger.evaluate/0.23.1680.978@0.23.1680.978" timestamp="1602188121470" />
+    <state width="515" height="466" key="DebuggerActiveHint" timestamp="1603625651520">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="515" height="466" key="DebuggerActiveHint/0.23.1680.978@0.23.1680.978" timestamp="1603625651520" />
+    <state width="1634" height="310" key="GridCell.Tab.0.bottom" timestamp="1603625269693">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1603625269693" />
+    <state width="1634" height="310" key="GridCell.Tab.0.center" timestamp="1603625269692">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1603625269692" />
+    <state width="1634" height="310" key="GridCell.Tab.0.left" timestamp="1603625269690">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1603625269690" />
+    <state width="1634" height="310" key="GridCell.Tab.0.right" timestamp="1603625269692">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1603625269692" />
+    <state width="1634" height="310" key="GridCell.Tab.1.bottom" timestamp="1603625471644">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.1.bottom/0.23.1680.978@0.23.1680.978" timestamp="1603625471644" />
+    <state width="1634" height="310" key="GridCell.Tab.1.center" timestamp="1603625471644">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.1.center/0.23.1680.978@0.23.1680.978" timestamp="1603625471644" />
+    <state width="1634" height="310" key="GridCell.Tab.1.left" timestamp="1603625471643">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.1.left/0.23.1680.978@0.23.1680.978" timestamp="1603625471643" />
+    <state width="1634" height="310" key="GridCell.Tab.1.right" timestamp="1603625471644">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.1.right/0.23.1680.978@0.23.1680.978" timestamp="1603625471644" />
+    <state width="1634" height="310" key="GridCell.Tab.2.bottom" timestamp="1603625214003">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.2.bottom/0.23.1680.978@0.23.1680.978" timestamp="1603625214003" />
+    <state width="1634" height="310" key="GridCell.Tab.2.center" timestamp="1603625214002">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.2.center/0.23.1680.978@0.23.1680.978" timestamp="1603625214002" />
+    <state width="1634" height="310" key="GridCell.Tab.2.left" timestamp="1603625214002">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.2.left/0.23.1680.978@0.23.1680.978" timestamp="1603625214002" />
+    <state width="1634" height="310" key="GridCell.Tab.2.right" timestamp="1603625214002">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1634" height="310" key="GridCell.Tab.2.right/0.23.1680.978@0.23.1680.978" timestamp="1603625214002" />
+    <state x="326" y="81" key="SettingsEditor" timestamp="1603595003685">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="326" y="81" key="SettingsEditor/0.23.1680.978@0.23.1680.978" timestamp="1603595003685" />
+    <state width="838" height="477" key="XDebugger.FullValuePopup" timestamp="1602187382391">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="838" height="477" key="XDebugger.FullValuePopup/0.23.1680.978@0.23.1680.978" timestamp="1602187382391" />
+    <state x="240" y="236" width="1196" height="580" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603047939816">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="240" y="236" width="1196" height="580" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1680.978@0.23.1680.978" timestamp="1603047939816" />
+    <state x="503" y="230" width="670" height="675" key="run.anything.popup" timestamp="1603625185430">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="503" y="230" width="670" height="675" key="run.anything.popup/0.23.1680.978@0.23.1680.978" timestamp="1603625185430" />
+    <state x="503" y="232" key="search.everywhere.popup" timestamp="1602181983503">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="503" y="232" key="search.everywhere.popup/0.23.1680.978@0.23.1680.978" timestamp="1602181983503" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/middleware/LoanOfficerMessageConsumer.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/controller/FrontOfficeController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/services/CustomerLoanServiceImpl.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/services/CustomerLoanServiceImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/middleware/RiskOfficerMessageConsumer.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/services/CustomerLoanServiceImpl.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/services/CustomerLoanServiceImpl.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/controller/FrontOfficeController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/controller/FrontOfficeController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sg/loan/frontoffice/repository/CustomerLoanRepository.java</url>
+          <line>20</line>
+          <properties class="com.sg.loan.frontoffice.repository.CustomerLoanRepository" method="updateByLoanofficer" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
